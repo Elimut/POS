@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1387238009 source:/FC17/home/ela/UPOL/APLINF/POS/dodelavky/http_klient/main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<netdb.h>
+	<netinet/in.h>
+	<sys/types.h>
+	<sys/socket.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1387212395 source:/FC17/home/ela/UPOL/APLINF/POS/programovani/resolveip/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<netdb.h>
+	<iostream>
+	<arpa/inet.h>
+
